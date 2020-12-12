@@ -5,8 +5,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Homework Gallery"
-      href: about.html
+    - text: "Assignment Gallery"
+      href: ass.html
     - text: "Project"
       href: project.html
       

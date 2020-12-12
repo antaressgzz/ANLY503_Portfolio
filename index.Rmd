@@ -2,12 +2,22 @@
 title: "Ziyang Zhang"
 ---
 
+------------------------------------------------------------------
+
+<img align="left" src="img/head.png" height="200"> </img>
+
+
+## About Me
+
 Hello, I'm Ziyang Zhang, a Data Science and Analytics Student in Georgetown University. Before this, I got my B.S. in Mathematics from University of Liverpool, UK. 
 
-I have coding experience in Python for 3 years and having expertise in Machine Learning and Deep Learning (TensorFlow), Big Data (AWS, Spark and Hadoop), SQL, and data visualization methods.
+I have coding experience in Python for 4 years and having expertise in Machine Learning and Deep Learning (TensorFlow), Big Data (AWS, Spark and Hadoop), SQL, and data visualization methods.
 
-My current research interest is human-in-the-loop reinforcement learning. I'm currently a member of [infosense](http://infosense.cs.georgetown.edu/research.html).
+My current research interest is human-in-the-loop reinforcement learning. I'm currently a member of [infosense](http://infosense.cs.georgetown.edu/research.html) and I'm currently working a self-driving car project.
 
 
 
-![This is me.](img/head.png)
+
+
+![](img/portfolio.jpg)
+

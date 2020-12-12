@@ -1,14 +1,17 @@
 name: "my-website"
 output_dir: "docs"
 navbar:
-  title: "My Website"
+  title: "Ziyang Zhang"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Homework Gallery"
       href: about.html
+    - text: "Project"
+      href: project.html
+      
 output:
   html_document:
-    theme: cosmo         # https://bookdown.org/yihui/rmarkdown/
+    theme: united         # https://bookdown.org/yihui/rmarkdown/
     highlight: textmate  #   html-document.html#appearance-and-style
     css: styles.css      # Create your own custom CSS file
